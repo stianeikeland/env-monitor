@@ -1,0 +1,10 @@
+{
+	"name":"env-monitor",
+	"description":"Simple arduino->pachube datalogger.",
+	"version":"0.0.1",
+	"dependencies" : {
+		"pachube": "*",
+		"serialport": "*"
+	},
+	"author": "Stian Eikeland <stian@eikeland.se>"
+}
